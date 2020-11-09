@@ -1,0 +1,200 @@
+09-11-%> 18:55:36 - Running simulator with different block times to capture the block propagation times
+09-11-%> 18:55:36 - Simulator Run for Block time 1
+09-11-%> 18:56:07 - Active peers in the network: 8703
+09-11-%> 18:56:07 - Simulation started at 2020-11-09 18:56:07.700725
+09-11-%> 18:56:07 - Block 1 will be mined in 2 seconds at 2020-11-09 18:56:09.700725
+09-11-%> 18:56:07 - Block 2 will be mined in 1 seconds at 2020-11-09 18:56:10.700725
+09-11-%> 18:56:07 - Block 3 will be mined in 3 seconds at 2020-11-09 18:56:13.700725
+09-11-%> 18:56:07 - Block 4 will be mined in 0 seconds at 2020-11-09 18:56:13.700725
+09-11-%> 18:56:07 - Block 5 will be mined in 2 seconds at 2020-11-09 18:56:15.700725
+09-11-%> 18:56:07 - Block 6 will be mined in 0 seconds at 2020-11-09 18:56:15.700725
+09-11-%> 18:56:07 - Block 7 will be mined in 0 seconds at 2020-11-09 18:56:15.700725
+09-11-%> 18:56:07 - Block 8 will be mined in 2 seconds at 2020-11-09 18:56:17.700725
+09-11-%> 18:56:07 - Block 9 will be mined in 2 seconds at 2020-11-09 18:56:19.700725
+09-11-%> 18:56:07 - Block 10 will be mined in 0 seconds at 2020-11-09 18:56:19.700725
+09-11-%> 18:56:07 - Block 11 will be mined in 1 seconds at 2020-11-09 18:56:20.700725
+09-11-%> 18:56:07 - Block 12 will be mined in 0 seconds at 2020-11-09 18:56:20.700725
+09-11-%> 18:56:07 - Block 13 will be mined in 1 seconds at 2020-11-09 18:56:21.700725
+09-11-%> 18:56:07 - Block 14 will be mined in 1 seconds at 2020-11-09 18:56:22.700725
+09-11-%> 18:56:07 - Block 15 will be mined in 2 seconds at 2020-11-09 18:56:24.700725
+09-11-%> 18:56:07 - Block 16 will be mined in 2 seconds at 2020-11-09 18:56:26.700725
+09-11-%> 18:56:07 - Block 17 will be mined in 3 seconds at 2020-11-09 18:56:29.700725
+09-11-%> 18:56:07 - Block 18 will be mined in 1 seconds at 2020-11-09 18:56:30.700725
+09-11-%> 18:56:07 - Block 19 will be mined in 1 seconds at 2020-11-09 18:56:31.700725
+09-11-%> 18:56:07 - Block 20 will be mined in 2 seconds at 2020-11-09 18:56:33.700725
+09-11-%> 18:56:07 - Block 21 will be mined in 1 seconds at 2020-11-09 18:56:34.700725
+09-11-%> 18:56:07 - Block 22 will be mined in 0 seconds at 2020-11-09 18:56:34.700725
+09-11-%> 18:56:07 - Block 23 will be mined in 0 seconds at 2020-11-09 18:56:34.700725
+09-11-%> 18:56:07 - Block 24 will be mined in 0 seconds at 2020-11-09 18:56:34.700725
+09-11-%> 18:56:07 - Block 25 will be mined in 1 seconds at 2020-11-09 18:56:35.700725
+09-11-%> 18:56:07 - Block 26 will be mined in 0 seconds at 2020-11-09 18:56:35.700725
+09-11-%> 18:56:07 - Block 27 will be mined in 0 seconds at 2020-11-09 18:56:35.700725
+09-11-%> 18:56:07 - Block 28 will be mined in 2 seconds at 2020-11-09 18:56:37.700725
+09-11-%> 18:56:07 - Block 29 will be mined in 0 seconds at 2020-11-09 18:56:37.700725
+09-11-%> 18:56:07 - Block 30 will be mined in 0 seconds at 2020-11-09 18:56:37.700725
+09-11-%> 18:56:07 - Block 31 will be mined in 2 seconds at 2020-11-09 18:56:39.700725
+09-11-%> 18:56:07 - Block 32 will be mined in 0 seconds at 2020-11-09 18:56:39.700725
+09-11-%> 18:56:07 - Block 33 will be mined in 1 seconds at 2020-11-09 18:56:40.700725
+09-11-%> 18:56:07 - Block 34 will be mined in 0 seconds at 2020-11-09 18:56:40.700725
+09-11-%> 18:56:07 - Block 35 will be mined in 1 seconds at 2020-11-09 18:56:41.700725
+09-11-%> 18:56:07 - Block 36 will be mined in 3 seconds at 2020-11-09 18:56:44.700725
+09-11-%> 18:56:07 - Block 37 will be mined in 2 seconds at 2020-11-09 18:56:46.700725
+09-11-%> 18:56:07 - Block 38 will be mined in 1 seconds at 2020-11-09 18:56:47.700725
+09-11-%> 18:56:07 - Block 39 will be mined in 0 seconds at 2020-11-09 18:56:47.700725
+09-11-%> 18:56:07 - Block 40 will be mined in 0 seconds at 2020-11-09 18:56:47.700725
+09-11-%> 18:56:07 - Block 41 will be mined in 0 seconds at 2020-11-09 18:56:47.700725
+09-11-%> 18:56:07 - Block 42 will be mined in 1 seconds at 2020-11-09 18:56:48.700725
+09-11-%> 18:56:07 - Block 43 will be mined in 1 seconds at 2020-11-09 18:56:49.700725
+09-11-%> 18:56:07 - Block 44 will be mined in 0 seconds at 2020-11-09 18:56:49.700725
+09-11-%> 18:56:07 - Block 45 will be mined in 0 seconds at 2020-11-09 18:56:49.700725
+09-11-%> 18:56:07 - Block 46 will be mined in 1 seconds at 2020-11-09 18:56:50.700725
+09-11-%> 18:56:07 - Block 47 will be mined in 1 seconds at 2020-11-09 18:56:51.700725
+09-11-%> 18:56:07 - Block 48 will be mined in 1 seconds at 2020-11-09 18:56:52.700725
+09-11-%> 18:56:07 - Block 49 will be mined in 0 seconds at 2020-11-09 18:56:52.700725
+09-11-%> 18:56:07 - Block 50 will be mined in 0 seconds at 2020-11-09 18:56:52.700725
+09-11-%> 18:56:07 - Block 51 will be mined in 1 seconds at 2020-11-09 18:56:53.700725
+09-11-%> 18:56:07 - Block 52 will be mined in 0 seconds at 2020-11-09 18:56:53.700725
+09-11-%> 18:56:07 - Block 53 will be mined in 3 seconds at 2020-11-09 18:56:56.700725
+09-11-%> 18:56:07 - Block 54 will be mined in 1 seconds at 2020-11-09 18:56:57.700725
+09-11-%> 18:56:07 - Block 55 will be mined in 1 seconds at 2020-11-09 18:56:58.700725
+09-11-%> 18:56:07 - Block 56 will be mined in 2 seconds at 2020-11-09 18:57:00.700725
+09-11-%> 18:56:07 - Block 57 will be mined in 0 seconds at 2020-11-09 18:57:00.700725
+09-11-%> 18:56:07 - Block 58 will be mined in 1 seconds at 2020-11-09 18:57:01.700725
+09-11-%> 18:56:07 - Block 59 will be mined in 0 seconds at 2020-11-09 18:57:01.700725
+09-11-%> 18:56:07 - Block 60 will be mined in 0 seconds at 2020-11-09 18:57:01.700725
+09-11-%> 18:56:07 - Block 61 will be mined in 4 seconds at 2020-11-09 18:57:05.700725
+09-11-%> 18:56:07 - Block 62 will be mined in 0 seconds at 2020-11-09 18:57:05.700725
+09-11-%> 18:56:07 - Block 63 will be mined in 1 seconds at 2020-11-09 18:57:06.700725
+09-11-%> 18:56:07 - Block 64 will be mined in 1 seconds at 2020-11-09 18:57:07.700725
+09-11-%> 18:56:07 - Block 65 will be mined in 0 seconds at 2020-11-09 18:57:07.700725
+09-11-%> 18:56:07 - Block 66 will be mined in 2 seconds at 2020-11-09 18:57:09.700725
+09-11-%> 18:56:07 - Block 67 will be mined in 0 seconds at 2020-11-09 18:57:09.700725
+09-11-%> 18:56:07 - Block 68 will be mined in 1 seconds at 2020-11-09 18:57:10.700725
+09-11-%> 18:56:07 - Block 69 will be mined in 0 seconds at 2020-11-09 18:57:10.700725
+09-11-%> 18:56:07 - Block 70 will be mined in 2 seconds at 2020-11-09 18:57:12.700725
+09-11-%> 18:56:07 - Block 71 will be mined in 2 seconds at 2020-11-09 18:57:14.700725
+09-11-%> 18:56:07 - Block 72 will be mined in 0 seconds at 2020-11-09 18:57:14.700725
+09-11-%> 18:56:07 - Block 73 will be mined in 1 seconds at 2020-11-09 18:57:15.700725
+09-11-%> 18:56:07 - Block 74 will be mined in 1 seconds at 2020-11-09 18:57:16.700725
+09-11-%> 18:56:07 - Block 75 will be mined in 4 seconds at 2020-11-09 18:57:20.700725
+09-11-%> 18:56:07 - Block 76 will be mined in 0 seconds at 2020-11-09 18:57:20.700725
+09-11-%> 18:56:07 - Block 77 will be mined in 1 seconds at 2020-11-09 18:57:21.700725
+09-11-%> 18:56:07 - Block 78 will be mined in 2 seconds at 2020-11-09 18:57:23.700725
+09-11-%> 18:56:07 - Block 79 will be mined in 1 seconds at 2020-11-09 18:57:24.700725
+09-11-%> 18:56:07 - Block 80 will be mined in 0 seconds at 2020-11-09 18:57:24.700725
+09-11-%> 18:56:07 - Block 81 will be mined in 1 seconds at 2020-11-09 18:57:25.700725
+09-11-%> 18:56:07 - Block 82 will be mined in 0 seconds at 2020-11-09 18:57:25.700725
+09-11-%> 18:56:07 - Block 83 will be mined in 0 seconds at 2020-11-09 18:57:25.700725
+09-11-%> 18:56:07 - Block 84 will be mined in 0 seconds at 2020-11-09 18:57:25.700725
+09-11-%> 18:56:07 - Block 85 will be mined in 0 seconds at 2020-11-09 18:57:25.700725
+09-11-%> 18:56:07 - Block 86 will be mined in 3 seconds at 2020-11-09 18:57:28.700725
+09-11-%> 18:56:07 - Block 87 will be mined in 2 seconds at 2020-11-09 18:57:30.700725
+09-11-%> 18:56:07 - Block 88 will be mined in 0 seconds at 2020-11-09 18:57:30.700725
+09-11-%> 18:56:07 - Block 89 will be mined in 0 seconds at 2020-11-09 18:57:30.700725
+09-11-%> 18:56:07 - Block 90 will be mined in 0 seconds at 2020-11-09 18:57:30.700725
+09-11-%> 18:56:07 - Block 91 will be mined in 1 seconds at 2020-11-09 18:57:31.700725
+09-11-%> 18:56:07 - Block 92 will be mined in 1 seconds at 2020-11-09 18:57:32.700725
+09-11-%> 18:56:07 - Block 93 will be mined in 1 seconds at 2020-11-09 18:57:33.700725
+09-11-%> 18:56:07 - Block 94 will be mined in 0 seconds at 2020-11-09 18:57:33.700725
+09-11-%> 18:56:07 - Block 95 will be mined in 2 seconds at 2020-11-09 18:57:35.700725
+09-11-%> 18:56:07 - Block 96 will be mined in 0 seconds at 2020-11-09 18:57:35.700725
+09-11-%> 18:56:07 - Block 97 will be mined in 1 seconds at 2020-11-09 18:57:36.700725
+09-11-%> 18:56:07 - Block 98 will be mined in 1 seconds at 2020-11-09 18:57:37.700725
+09-11-%> 18:56:07 - Block 99 will be mined in 3 seconds at 2020-11-09 18:57:40.700725
+09-11-%> 18:56:07 - Block 100 will be mined in 3 seconds at 2020-11-09 18:57:43.700725
+09-11-%> 18:56:07 - Block discoveries 100
+09-11-%> 18:56:07 - Uncle formed at depth 2 at 2020-11-09 18:56:10.700725
+09-11-%> 18:56:09 - Uncle formed at depth 3 at 2020-11-09 18:56:13.700725
+09-11-%> 18:56:09 - Uncle formed at depth 4 at 2020-11-09 18:56:13.700725
+09-11-%> 18:56:09 - Uncle formed at depth 6 at 2020-11-09 18:56:15.700725
+09-11-%> 18:56:09 - Uncle formed at depth 7 at 2020-11-09 18:56:15.700725
+09-11-%> 18:56:10 - Uncle formed at depth 8 at 2020-11-09 18:56:17.700725
+09-11-%> 18:56:11 - Uncle formed at depth 9 at 2020-11-09 18:56:19.700725
+09-11-%> 18:56:11 - Uncle formed at depth 10 at 2020-11-09 18:56:19.700725
+09-11-%> 18:56:11 - Uncle formed at depth 11 at 2020-11-09 18:56:20.700725
+09-11-%> 18:56:11 - Uncle formed at depth 12 at 2020-11-09 18:56:20.700725
+09-11-%> 18:56:11 - Uncle formed at depth 14 at 2020-11-09 18:56:22.700725
+09-11-%> 18:56:12 - Uncle formed at depth 15 at 2020-11-09 18:56:24.700725
+09-11-%> 18:56:12 - Uncle formed at depth 16 at 2020-11-09 18:56:26.700725
+09-11-%> 18:56:12 - Uncle formed at depth 18 at 2020-11-09 18:56:30.700725
+09-11-%> 18:56:14 - Uncle formed at depth 19 at 2020-11-09 18:56:31.700725
+09-11-%> 18:56:14 - Uncle formed at depth 20 at 2020-11-09 18:56:33.700725
+09-11-%> 18:56:14 - Uncle formed at depth 21 at 2020-11-09 18:56:34.700725
+09-11-%> 18:56:14 - Uncle formed at depth 23 at 2020-11-09 18:56:34.700725
+09-11-%> 18:56:14 - Uncle formed at depth 24 at 2020-11-09 18:56:34.700725
+09-11-%> 18:56:16 - Uncle formed at depth 25 at 2020-11-09 18:56:35.700725
+09-11-%> 18:56:16 - Uncle formed at depth 26 at 2020-11-09 18:56:35.700725
+09-11-%> 18:56:16 - Uncle formed at depth 27 at 2020-11-09 18:56:35.700725
+09-11-%> 18:56:16 - Uncle formed at depth 28 at 2020-11-09 18:56:37.700725
+09-11-%> 18:56:16 - Uncle formed at depth 29 at 2020-11-09 18:56:37.700725
+09-11-%> 18:56:16 - Uncle formed at depth 30 at 2020-11-09 18:56:37.700725
+09-11-%> 18:56:16 - Uncle formed at depth 31 at 2020-11-09 18:56:39.700725
+09-11-%> 18:56:16 - Uncle formed at depth 32 at 2020-11-09 18:56:39.700725
+09-11-%> 18:56:16 - Uncle formed at depth 34 at 2020-11-09 18:56:40.700725
+09-11-%> 18:56:16 - Uncle formed at depth 35 at 2020-11-09 18:56:41.700725
+09-11-%> 18:56:18 - Uncle formed at depth 36 at 2020-11-09 18:56:44.700725
+09-11-%> 18:56:18 - Uncle formed at depth 38 at 2020-11-09 18:56:47.700725
+09-11-%> 18:56:20 - Uncle formed at depth 39 at 2020-11-09 18:56:47.700725
+09-11-%> 18:56:20 - Uncle formed at depth 40 at 2020-11-09 18:56:47.700725
+09-11-%> 18:56:20 - Uncle formed at depth 41 at 2020-11-09 18:56:47.700725
+09-11-%> 18:56:20 - Uncle formed at depth 42 at 2020-11-09 18:56:48.700725
+09-11-%> 18:56:20 - Uncle formed at depth 43 at 2020-11-09 18:56:49.700725
+09-11-%> 18:56:20 - Uncle formed at depth 44 at 2020-11-09 18:56:49.700725
+09-11-%> 18:56:20 - Uncle formed at depth 45 at 2020-11-09 18:56:49.700725
+09-11-%> 18:56:20 - Uncle formed at depth 46 at 2020-11-09 18:56:50.700725
+09-11-%> 18:56:20 - Uncle formed at depth 47 at 2020-11-09 18:56:51.700725
+09-11-%> 18:56:20 - Uncle formed at depth 49 at 2020-11-09 18:56:52.700725
+09-11-%> 18:56:20 - Uncle formed at depth 50 at 2020-11-09 18:56:52.700725
+09-11-%> 18:56:21 - Uncle formed at depth 51 at 2020-11-09 18:56:53.700725
+09-11-%> 18:56:21 - Uncle formed at depth 52 at 2020-11-09 18:56:53.700725
+09-11-%> 18:56:22 - Uncle formed at depth 53 at 2020-11-09 18:56:56.700725
+09-11-%> 18:56:22 - Uncle formed at depth 54 at 2020-11-09 18:56:57.700725
+09-11-%> 18:56:24 - Uncle formed at depth 56 at 2020-11-09 18:57:00.700725
+09-11-%> 18:56:24 - Uncle formed at depth 57 at 2020-11-09 18:57:00.700725
+09-11-%> 18:56:24 - Uncle formed at depth 58 at 2020-11-09 18:57:01.700725
+09-11-%> 18:56:24 - Uncle formed at depth 59 at 2020-11-09 18:57:01.700725
+09-11-%> 18:56:24 - Uncle formed at depth 60 at 2020-11-09 18:57:01.700725
+09-11-%> 18:56:24 - Uncle formed at depth 62 at 2020-11-09 18:57:05.700725
+09-11-%> 18:56:24 - Uncle formed at depth 63 at 2020-11-09 18:57:06.700725
+09-11-%> 18:56:25 - Uncle formed at depth 64 at 2020-11-09 18:57:07.700725
+09-11-%> 18:56:25 - Uncle formed at depth 65 at 2020-11-09 18:57:07.700725
+09-11-%> 18:56:26 - Uncle formed at depth 66 at 2020-11-09 18:57:09.700725
+09-11-%> 18:56:26 - Uncle formed at depth 67 at 2020-11-09 18:57:09.700725
+09-11-%> 18:56:26 - Uncle formed at depth 68 at 2020-11-09 18:57:10.700725
+09-11-%> 18:56:26 - Uncle formed at depth 69 at 2020-11-09 18:57:10.700725
+09-11-%> 18:56:28 - Uncle formed at depth 71 at 2020-11-09 18:57:14.700725
+09-11-%> 18:56:28 - Uncle formed at depth 72 at 2020-11-09 18:57:14.700725
+09-11-%> 18:56:28 - Uncle formed at depth 73 at 2020-11-09 18:57:15.700725
+09-11-%> 18:56:28 - Uncle formed at depth 74 at 2020-11-09 18:57:16.700725
+09-11-%> 18:56:28 - Uncle formed at depth 76 at 2020-11-09 18:57:20.700725
+09-11-%> 18:56:28 - Uncle formed at depth 77 at 2020-11-09 18:57:21.700725
+09-11-%> 18:56:30 - Uncle formed at depth 78 at 2020-11-09 18:57:23.700725
+09-11-%> 18:56:30 - Uncle formed at depth 79 at 2020-11-09 18:57:24.700725
+09-11-%> 18:56:30 - Uncle formed at depth 80 at 2020-11-09 18:57:24.700725
+09-11-%> 18:56:30 - Uncle formed at depth 81 at 2020-11-09 18:57:25.700725
+09-11-%> 18:56:30 - Uncle formed at depth 83 at 2020-11-09 18:57:25.700725
+09-11-%> 18:56:30 - Uncle formed at depth 84 at 2020-11-09 18:57:25.700725
+09-11-%> 18:56:32 - Uncle formed at depth 85 at 2020-11-09 18:57:25.700725
+09-11-%> 18:56:32 - Uncle formed at depth 86 at 2020-11-09 18:57:28.700725
+09-11-%> 18:56:32 - Uncle formed at depth 87 at 2020-11-09 18:57:30.700725
+09-11-%> 18:56:32 - Uncle formed at depth 88 at 2020-11-09 18:57:30.700725
+09-11-%> 18:56:32 - Uncle formed at depth 89 at 2020-11-09 18:57:30.700725
+09-11-%> 18:56:32 - Uncle formed at depth 90 at 2020-11-09 18:57:30.700725
+09-11-%> 18:56:32 - Uncle formed at depth 92 at 2020-11-09 18:57:32.700725
+09-11-%> 18:56:34 - Uncle formed at depth 93 at 2020-11-09 18:57:33.700725
+09-11-%> 18:56:34 - Uncle formed at depth 94 at 2020-11-09 18:57:33.700725
+09-11-%> 18:56:34 - Uncle formed at depth 95 at 2020-11-09 18:57:35.700725
+09-11-%> 18:56:34 - Uncle formed at depth 96 at 2020-11-09 18:57:35.700725
+09-11-%> 18:56:34 - Uncle formed at depth 98 at 2020-11-09 18:57:37.700725
+09-11-%> 18:56:36 - Uncle formed at depth 99 at 2020-11-09 18:57:40.700725
+09-11-%> 18:56:38 - Saving block propagation times for block time 1 in simulation_data/block_time_1_block_reception_times.txt
+09-11-%> 18:56:39 - Mean propagation time: 
+09-11-%> 18:56:39 - 1.4949921165632183
+09-11-%> 18:56:39 - Standard deviation: 
+09-11-%> 18:56:39 - 0.4123114381843855
+09-11-%> 18:56:39 - First received in 
+09-11-%> 18:56:39 - 0.0
+09-11-%> 18:56:39 - Last received in 
+09-11-%> 18:56:39 - 4.027943
+09-11-%> 18:56:39 - Median: 
+09-11-%> 18:56:39 - 1.474609

@@ -1,0 +1,91 @@
+31-10-%> 12:06:39 - Running simulator with different block times to capture the block propagation times
+31-10-%> 12:06:39 - Simulator Run for Block time 1
+31-10-%> 12:07:04 - Saving block propagation times for block time 1 in simulation_data/block_time_1_block_reception_times.txt
+31-10-%> 12:07:04 - Mean propagation time: 
+31-10-%> 12:07:04 - 1.533151077827569
+31-10-%> 12:07:04 - Standard deviation: 
+31-10-%> 12:07:04 - 0.41921145870707577
+31-10-%> 12:07:04 - First received in 
+31-10-%> 12:07:04 - 0.0
+31-10-%> 12:07:04 - Last received in 
+31-10-%> 12:07:04 - 3.792716
+31-10-%> 12:07:04 - Median: 
+31-10-%> 12:07:04 - 1.532798
+
+31-10-%> 12:07:04 - Simulator Run for Block time 5
+31-10-%> 12:07:43 - Saving block propagation times for block time 5 in simulation_data/block_time_5_block_reception_times.txt
+31-10-%> 12:07:43 - Mean propagation time: 
+31-10-%> 12:07:43 - 1.7206089765827874
+31-10-%> 12:07:43 - Standard deviation: 
+31-10-%> 12:07:44 - 0.46833018497192996
+31-10-%> 12:07:44 - First received in 
+31-10-%> 12:07:44 - 0.0
+31-10-%> 12:07:44 - Last received in 
+31-10-%> 12:07:44 - 4.30216
+31-10-%> 12:07:44 - Median: 
+31-10-%> 12:07:44 - 1.745342
+
+31-10-%> 12:07:44 - Simulator Run for Block time 13.24
+31-10-%> 12:08:29 - Saving block propagation times for block time 13.24 in simulation_data/block_time_13.24_block_reception_times.txt
+31-10-%> 12:08:29 - Mean propagation time: 
+31-10-%> 12:08:29 - 2.153848243506296
+31-10-%> 12:08:29 - Standard deviation: 
+31-10-%> 12:08:29 - 0.5557627161927254
+31-10-%> 12:08:29 - First received in 
+31-10-%> 12:08:29 - 0.0
+31-10-%> 12:08:29 - Last received in 
+31-10-%> 12:08:29 - 6.00841
+31-10-%> 12:08:29 - Median: 
+31-10-%> 12:08:29 - 2.144012
+
+31-10-%> 12:08:29 - Simulator Run for Block time 30
+31-10-%> 12:09:13 - Saving block propagation times for block time 30 in simulation_data/block_time_30_block_reception_times.txt
+31-10-%> 12:09:13 - Mean propagation time: 
+31-10-%> 12:09:13 - 2.9000615182060634
+31-10-%> 12:09:13 - Standard deviation: 
+31-10-%> 12:09:14 - 0.6951114210852434
+31-10-%> 12:09:14 - First received in 
+31-10-%> 12:09:14 - 0.0
+31-10-%> 12:09:14 - Last received in 
+31-10-%> 12:09:14 - 7.364077
+31-10-%> 12:09:14 - Median: 
+31-10-%> 12:09:14 - 2.957396
+
+31-10-%> 12:09:14 - Simulator Run for Block time 60
+31-10-%> 12:09:57 - Saving block propagation times for block time 60 in simulation_data/block_time_60_block_reception_times.txt
+31-10-%> 12:09:57 - Mean propagation time: 
+31-10-%> 12:09:58 - 4.45816181437133
+31-10-%> 12:09:58 - Standard deviation: 
+31-10-%> 12:09:58 - 1.2175621848520954
+31-10-%> 12:09:58 - First received in 
+31-10-%> 12:09:58 - 0.0
+31-10-%> 12:09:58 - Last received in 
+31-10-%> 12:09:58 - 11.300035
+31-10-%> 12:09:58 - Median: 
+31-10-%> 12:09:58 - 4.458439
+
+31-10-%> 12:09:58 - Simulator Run for Block time 100
+31-10-%> 12:10:42 - Saving block propagation times for block time 100 in simulation_data/block_time_100_block_reception_times.txt
+31-10-%> 12:10:42 - Mean propagation time: 
+31-10-%> 12:10:43 - 6.4385983487484655
+31-10-%> 12:10:43 - Standard deviation: 
+31-10-%> 12:10:43 - 1.6212023746619029
+31-10-%> 12:10:43 - First received in 
+31-10-%> 12:10:43 - 0.0
+31-10-%> 12:10:43 - Last received in 
+31-10-%> 12:10:43 - 16.408208
+31-10-%> 12:10:43 - Median:
+31-10-%> 12:10:43 - 6.463892
+
+31-10-%> 12:10:43 - Simulator Run for Block time 600
+31-10-%> 12:11:27 - Saving block propagation times for block time 600 in simulation_data/block_time_600_block_reception_times.txt
+31-10-%> 12:11:27 - Mean propagation time: 
+31-10-%> 12:11:27 - 30.230640696638183
+31-10-%> 12:11:27 - Standard deviation: 
+31-10-%> 12:11:27 - 8.604545956823879
+31-10-%> 12:11:27 - First received in 
+31-10-%> 12:11:27 - 0.0
+31-10-%> 12:11:27 - Last received in 
+31-10-%> 12:11:27 - 87.363619
+31-10-%> 12:11:27 - Median: 
+31-10-%> 12:11:27 - 30.7699
